@@ -1,0 +1,2 @@
+.card{display:flex;justify-content:space-between;align-items:center;margin:5px 0;padding:0 50px;width:700px;height:100px;background-color:#bd7e88;border-radius:10px;transition:transform .5s}.card:hover{transform:scale(1.05);cursor:pointer}.list{display:flex;flex-direction:column;justify-content:center;align-items:center}
+/*# sourceMappingURL=main.5a83f137.chunk.css.map */
